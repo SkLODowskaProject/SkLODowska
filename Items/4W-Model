@@ -122,3 +122,45 @@
                     heritage designation --> registered historic document; monument historique classé; (che oenso diano la stessa cosa)
                     
               Detto questo, ho scoperto che c'era un'universitàa  parigi intitolata a Pierre e Marie Curie (https://www.wikidata.org/wiki/Q1144549), che si è fusa con la Sorbona nel 2018 (https://ita.archinform.net/projekte/12177.htm)
+
+
+
+11. Monument (source: https://www.wiki.en-us.nina.az/Marie_Curie_Monument_in_Lublin.html )
+
+                11.1 Who
+                    designer(sculpted by) --> Marian Konieczny
+                11.2 Where
+                  Lublin, Poland
+                11.3 When
+                    opening date --> 24.10.1964
+                11.4 What
+                    object type --> statue/monument??? #in base allo standard che decidiamo di utilizzare
+                    material --> bronze
+                    depict/subject --> Curie, Marie
+                    has title -->  Maria Skłodowska-Curie Monument
+
+
+12. Journal Article
+
+                12.1 Who*
+                    author (written by) --> R., E.    #*Dell’autore dell’articolo non si trova il nome completo, ma solo il diminutivo R., E. Sono andata anche sul sito del giornale in questione, il Nature, e la citazione disponibile è la stessa: https://www.nature.com/articles/086001a0
+	                  producer --> © 1911 Nature Publishing Group
+                    source: Nature Journals Online
+                12.2 Where
+                     Nature (London) n.86 
+                     Vol.86 (2157),
+                     p.1-3
+                12.3 When
+                     Issue date/Published --> 1911-03-02
+                12.4 What
+                    object type --> scholarly article      #è Peer Reviewed
+                    scientific journal      #(open access)
+                    material --> pdf
+                    has subject --> Traité de Radioactivité. By Prof. Mme. P. Curie. Tome i., pp. xiii + 426. Tome ii., pp. 548. (Paris: Gauthier-Villars, 1910.) Price, 2 vols., 30 francs.
+                    #Nota l’editore che l’altra volta cercavamo.
+                    has title --> Researches on radioactivity.
+                    has ISSN--> 0028-0836
+                    has EISSN--> 1476-4687
+                    has DOI--> 10.1038/086001a0
+                    
+                    
