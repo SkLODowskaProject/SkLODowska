@@ -1,0 +1,124 @@
+1. Francobollo
+                1.1 Who
+                    creator --> (artist-engraved by) Naszarkowski, Piotr; (designed by) Dabrowska, Marzanna; (creazione) (fonte: Europeana) Fondazione Nobel;
+                1.2 Where
+                    kept at --> post museum
+                1.3 When
+                    made in --> 17.11.2011
+                1.4 What
+                    object type --> stamp
+                    material --> rubber; wet activated paper
+                    depict/subject --> Curie, Marie
+                    has title --> Nobelpris i kemi - Marie Curie 
+                    
+2. Print
+               2.1 Who
+                    published by --> Vanity Fair
+                    made by --> Julius Mendes Price
+                    printed by --> Vincent Brooks, Day and Son Limited
+               2.2 Where
+                    has place of creation --> London
+                    kept in --> The Board of Trustees of the Science Museum, London; Science Museum, London 
+               2.3 When
+                    made in --> 1904
+                    published in --> 22.12.1904
+               2.4 What
+                    object type --> print
+                    material --> paper (informazione dedotta)
+                    uses tecnique --> Chromolithograph
+                    has title --> "Radium
+
+
+3. Back to back photos
+
+               3.1 Who
+                    made by --> Unknown
+               3.2 Where
+                    kept in --> Daily Herald Archive at National Science and Media Museum
+               3.3 When
+                    made in --> 1904-1908
+               3.4 What
+                    object type --> photograph
+                    material --> paper; ink
+                    depict/subject --> Irene; Eve; Pierre; Marie Curie
+         
+4. Radithor
+               4.1 Who
+                    made by --> (manufacturer Wikidata)Bailey Radium Laboratories; (creator wikidata) William J. A. Bailey
+               4.2 Where
+                    kept in --> National Museum of American History
+               4.3 When
+                    made in --> 1925-1932
+               4.4 What
+                    object type --> (wikidata) patent medicine; radioactive quackery
+                    material --> radium (drug active ingredients); mesothorium (drug active ingredients); water, triple distilled (drug active ingredients)
+                    subject --> Rheumatism & Arthritis Drugs       
+                    
+                    
+5. Trattato Digitale (volume 1)
+               5.1 Who
+                    made by --> Curie, Marie
+                    publisher --> Gauthier-Villars
+               5.2 Where
+                    published in --> Paris (book)
+                    kept in --> archive.org
+               5.3 When
+                    made in --> 1910 (book)
+                    made in --> 2009 (2009)
+               5.4 What
+                    object type --> online resource; Internet Resource; Computer File (wordcat)
+                    material --> radium (drug active ingredients); mesothorium (drug active ingredients); water, triple distilled (drug active ingredients)
+                    subject --> radioactivity
+                    has title --> Traité de radioactivité
+                    
+ 5.b Trattato
+               5.1 Who
+                    made by --> Curie, Marie
+                    publisher --> Gauthier-Villars
+               5.2 Where
+                    published in --> Paris (book)
+                    kept in --> archive.org
+               5.3 When
+                    made in --> 1910 (book)
+                    made in --> 2009 (2009)
+               5.4 What
+                    object type --> online resource; Internet Resource; Computer File (wordcat)
+                    material --> radium (drug active ingredients); mesothorium (drug active ingredients); water, triple distilled (drug active ingredients)
+                    subject --> radioactivity
+                    
+7. Nobel (dobbiamo farlo in generale o il suo dato che possiamo aggiungerci noi la descrizione? Su wikidata esistono anche i "nobel per la chimica" e "nobel per la fisica", che forse sarebbe più arino usare)
+    fisica: https://www.wikidata.org/wiki/Q38104
+    chimica: https://www.wikidata.org/wiki/Q44585 (qua c'è anche la foto del suo)
+    (però hanno meno descrizione)
+               7.1 Who
+                    founded by --> Nobel, Alfred
+                    conferred by --> dipende dal tipo di nobel (chimica e fisica: Royal Swedish Academy of Science)
+               7.2 Where
+                    wikidata scrive "country" generico --> Sweden
+                    location --> Stockholm
+                    (poi se si vuole parlare del fatto che non esistono più le sue due medaglie o il fatto che c'è il "diploma" di ricevimento, che non so dove sia tenuto, dovremmo capire meglio cosa rappresentare)
+               7.3 When
+                    inception --> 1901
+                    winner: point in time --> (li mettiamo entrambi?) 1903 fisica; 1911 chimica
+               7.4 What
+                    object type --> award (subclass of prize)
+                    material -->  concettualemente è "intangible" soprattutto se parliamo dei suoi che non esistono più. anche qui dipende da cosa vogliamo rappresentare
+                                  
+
+8. Sorbonne
+               8.1 Who
+                    owned by --> Municipality of Paris
+                    named after --> College of Sorbonne (non so se questo vada proprio qui)
+               8.2 Where
+                    Coordinate location --> 48°50'55.1"N, 2°20'36.8"E
+                    country--> France
+                    located in administrative territorial entity --> Sorbonne
+                    located on street or square --> rue des Écoles; rue Saint-Jaques; rue de la Sorbonne; rue Victor-Cousin; rue Cujas
+               8.3 When
+                    inception --> 1257 ("statement with Gregorian date earlier than 1584": ovvero, c'è un margine d'incertezza sulla data, però questa è quella che riporta WikiData)
+               8.4 What
+                    object type --> schoool building; higher educational institute
+                    part of --> University of Paris
+                    heritage designation --> registered historic document; monument historique classé; (che oenso diano la stessa cosa)
+                    
+              Detto questo, ho scoperto che c'era un'universitàa  parigi intitolata a Pierre e Marie Curie (https://www.wikidata.org/wiki/Q1144549), che si è fusa con la Sorbona nel 2018 (https://ita.archinform.net/projekte/12177.htm)
