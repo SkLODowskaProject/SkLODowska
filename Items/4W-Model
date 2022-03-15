@@ -121,8 +121,49 @@
                     part of --> University of Paris
                     heritage designation --> registered historic document; monument historique classé; (che oenso diano la stessa cosa)
                     
-              Detto questo, ho scoperto che c'era un'universitàa  parigi intitolata a Pierre e Marie Curie (https://www.wikidata.org/wiki/Q1144549), che si è fusa con la Sorbona nel 2018 (https://ita.archinform.net/projekte/12177.htm)
+	Detto questo, ho scoperto che c'era un'universitàa  parigi intitolata a Pierre e Marie Curie (https://www.wikidata.org/wiki/Q1144549), che si è fusa con la Sorbona nel 2018 (https://ita.archinform.net/projekte/12177.htm)
 
+
+9. Paris (sources: https://www.geonames.org/2968815/paris.html or https://www.wikidata.org/wiki/Q90)
+	-- MADS Standard elements -> https://id.loc.gov/ontologies/madsrdf/v1.html#RWO --
+	-- SKOS Dtandard elements -> https://www.w3.org/2009/08/skos-reference/skos.html --
+	
+		9.1 Who (???)
+		9.2 Where -> Geonames ontology (<gn:featureClass rdf:resource="https://www.geonames.org/ontology#A"/> or, or maybe both
+						<gn:featureCode rdf:resource="https://www.geonames.org/ontology#A.ADM2"/>):
+			Has latitude: <wgs84_pos:lat>48.8534</wgs84_pos:lat>
+			Has longitude: <wgs84_pos:long>2.3486</wgs84_pos:long>
+			Has continent: Europe
+			Has country: France
+			Has country code: <gn:countryCode>FR</gn:countryCode>
+		9.3 When (???)
+		9.4 What:
+			(not sure if it goes here, but I think is not so important) - Has population: <gn:population>2257981</gn:population>
+			Instance of: City (in MADS -> <madsrdf:Geographic> Paris <madsrdf:Geographic> // ins SKOS -> <MyConcept> rdf:type skos:Concept )
+			Has official Language: French
+			Has Shape (geoshape): https://commons.wikimedia.org/wiki/Data:Paris.map
+	
+	
+	
+10. Mausoleum - Pantheon ( source: https://www.wikidata.org/wiki/Q188856 // http://www.paris-pantheon.fr/) -> wouldn't be better to use directly the tomb?
+		10.1 Who:
+			Has architects: Jacques-Germain Soufflot + Jean-Baptiste Rondelet + Maximilien Brébion
+		10.2 Where:
+			Has Location: Paris
+			Has quarter: Sorbonne Administrative quarter (https://www.wikidata.org/wiki/Q3413213)
+			Has latitude: <wgs84_pos:lat>48.84624</wgs84_pos:lat>
+			Has longitude: <wgs84_pos:long>2.34613</wgs84_pos:long>
+		10.3 When:
+			has inception: 1758
+			has opening date: 1781
+		10.4 What:
+			Has architectural style: Neoclassical architecture
+			Has height: 83m
+			Has alternative name/label: <skos:altLabel>Basilique de Sainte Geneviève Paris</skos:altLabel>
+			
+	It has a speciaal cathegory for people buried inside it: Category:Burials at the Panthéon, Paris
+	
+			
 
 
 11. Monument (source: https://www.wiki.en-us.nina.az/Marie_Curie_Monument_in_Lublin.html )
