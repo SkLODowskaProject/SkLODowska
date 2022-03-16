@@ -1,7 +1,7 @@
 ~ 03 - 15 - 2022 ~
 
 Suggestions/Ideas for the next meeting:
-(Tom) Let's see Wikidata and follow its links (ed: radium, inventor, named after...). I don't know if we could use also "Radioactivity" as an item since it is 1) a notable work by Marie Curie 2) the object of the discovery.
+(Tom) Let's see Wikidata and follow its links (ed: radium, inventor, named after...). (I don't know if we could) It would be interesting to use also "Radioactivity" as an item since it is 1) a notable work by Marie Curie 2) the object of the discovery.
 
 Conceptual Map - instructions:
   created by => draw
