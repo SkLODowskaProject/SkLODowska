@@ -1,0 +1,39 @@
+~ 03 - 15 - 2022 ~
+
+Suggestions/Ideas for the next meeting:
+(Tom) Let's see Wikidata and follow its links (ed: radium, inventor, named after...). I don't know if we could use also "Radioactivity" as an item since it is 1) a notable work by Marie Curie 2) the object of the discovery.
+
+Conceptual Map - instructions:
+  created by => draw
+  produced by => created by ann editor, a publisher, an istitution 
+  made in => year
+  contained in=> issue contained in a magazine
+  
+  
+Properties we used in the conceptual map: 
+  • marie curie --- notable work ---> traité de radioactivité
+  • marie curie/pierre curie --- award received ---> nobel prizes
+  • another interesting property is RATIONALE, i.e. prize motivation
+  
+  
+Things that are still not clear:
+  1. What's the difference between: realized by | written by | created by
+  2. Can "engraved by" used in the conceptual map or do we use diirectly "created by" as a relation/predicate?
+  3. The discovery of radium: can we read it as an item?
+  4. About: object or event oriented? If we are following an object oriented approach, can we still use an event as an item?
+  5. CDOC-CRM is an event oriented onthology: can we still use it?
+  6. Can we use as items some geographical spaces? Intended as cities, States etc. not as monuments, tombs)
+  
+  7. Object oriented vs Event oriented approach: the Gioconda case study. 
+   Object => (the portrait depicting) Gioconda; Creator => Leonardo Da Vinci; subject => Mona Lisa.
+   First approach (object centric): the object itself is my hub i.e. my "centre". Therefore I can connect my hub to the creator, Leonardo, and the subject of the portrait, Monna Lisa. 
+   Second approach: I create an event. In this case my event is "The creation of the portrait" itself, by Leonardo. It's my event that is able to connect Leonardo da Vinci (the creator) to the object. While in the object centric Leonardo and the portrait are connected directly, here the relation is indirect. In the same way, "Gioconda" (the portrait) is connected to Monna Lisa (the subject) through a central hub, that is the event itself. The event oriented approach is thuoght to enlight the the process of interrelation between the items.
+
+   
+
+Additional informations:
+  1. Pierre and Marie received two Noble Prize: one for the discovery of the radioactivity and one for the Radium and Polonium, this last element named after the country of Marie’s birth. 
+  2. 1903: Nobel Prize in Physics with Pierre Curie (husband) and with the physicist Henri Becquerel for their pioneering work developing the theory of "radioactivity" a term she coined. | 1911: Nobel Prize in Chemistry for her discovery of the elements polonium and radium, using techniques she invented for isolating radioactive isotopes.
+  3. The whole name of Marie is: Marie Salomea Skłodowska Curie
+  4. The chromolitographs of Vanity Fair Magazine were used to be affixed to the page through a tape.
+
