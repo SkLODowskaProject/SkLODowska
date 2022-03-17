@@ -19,10 +19,12 @@ Properties we used in the conceptual map:
 Things that are still not clear:
   1. What's the difference between: realized by | written by | created by
   2. Can "engraved by" used in the conceptual map or do we use diirectly "created by" as a relation/predicate?
+      (proposta (tom): usiamo quello che ci pare, o meglio, quello specificato nelle descrizioni già attuate dalle istituzioni, tanto poi il comun              denominatore lo dobbiamo trovare quando cerchiamo i termini speecifici per le relazinoi in RDF)
   3. The discovery of radium: can we read it as an item?
   4. About: object or event oriented? If we are following an object oriented approach, can we still use an event as an item?
   5. CDOC-CRM is an event oriented onthology: can we still use it?
   6. Can we use as items some geographical spaces? Intended as cities, States etc. not as monuments, tombs)
+          ((tom) nelle guidelines c'è scritto un elenco di items, non penso che un luogo possa essere interpretato come item dato che non può essere                detenuto da nessuna istituzione o essere proprietà di qualcunuo. Le guidelines riportano "the description of each item must include                      information about different kinds of entities: people, places, dates, and subjects/concepts." nel sendo che, alla descrizione dell'Item                  possiamo collegare un luogo geografico, che, di conseguenza può essere interpretato come entità, ma non come item. Gli items, da guidelines,              sono "objects: archival documents/files/series/founds; bibliographic records; artefacts (photographs, maps, sculptures, buildings,                        manuscripts, sigils, etc.)")
   
   7. Object oriented vs Event oriented approach: the Gioconda case study. 
    Object => (the portrait depicting) Gioconda; Creator => Leonardo Da Vinci; subject => Mona Lisa.
