@@ -9,6 +9,7 @@ Conceptual Map - instructions:
   made in => year
   contained in=> issue contained in a magazine
   material => in the sense of "made of"
+  located in => place
   
   
 Properties we used in the conceptual map: 
