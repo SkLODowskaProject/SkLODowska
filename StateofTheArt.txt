@@ -40,4 +40,22 @@ Additional informations:
   2. 1903: Nobel Prize in Physics with Pierre Curie (husband) and with the physicist Henri Becquerel for their pioneering work developing the theory of "radioactivity" a term she coined. | 1911: Nobel Prize in Chemistry for her discovery of the elements polonium and radium, using techniques she invented for isolating radioactive isotopes.
   3. The whole name of Marie is: Marie Salomea Skłodowska Curie
   4. The chromolitographs of Vanity Fair Magazine were used to be affixed to the page through a tape.
+  
+  
+  
+~ 03 - 19 - 2022 ~
+  See for more: officehours
+
+    1.About: Treatise on Radioactivity
+      - According to Worldcat, vol 1 + vol 2 (sponsored by University of Ottawa on Internet Archive) represent a single Internet Resource
+      https://www.worldcat.org/title/trait-de-radioactivit/oclc/1085979352 )
+      - There are three main "disposition" of the items (physical and online object). ->See the map in draw.io
+      - In the original version of the treatise, the author is written on the material version as "Madame Pierre Curie", it is obvious that the author is Madame Curie.
+   
+   2. About: Noble Prize
+      - We finally found the two object (diploma) recorded!  https://musee.curie.fr/decouvrir/la-famille-curie/les-prix-nobel-des-curie-et-des-joliot-curie
+      - We will set the diploma as entity? Since we have two Noble Prize. (<--it has been solved, waiting for the next collective meeting to talk)
+    
+~ 03 - 20 - 2022 ~
+    Treatise...
 
