@@ -109,7 +109,7 @@
                     material -->  concettualemente è "intangible" soprattutto se parliamo dei suoi che non esistono più. anche qui dipende da cosa vogliamo rappresentare
                                   
 
-8. Sorbonne
+(8.) Sorbonne (it's not anymore an entity, but an item)
                8.1 Who
                     owned by --> Municipality of Paris
                     named after --> College of Sorbonne (non so se questo vada proprio qui)
@@ -127,6 +127,17 @@
                     
 	Detto questo, ho scoperto che c'era un'universitàa  parigi intitolata a Pierre e Marie Curie (https://www.wikidata.org/wiki/Q1144549), che si è fusa con la Sorbona nel 2018 (https://ita.archinform.net/projekte/12177.htm)
 
+8. Article
+               3.1 Who
+                    has subject --> Pierre Curie
+               3.2 Where
+                    kept at --> Fonds photographique Général - Association Curie et Joliot-Curie, Musée Curie
+               3.3 When
+                    made in --> 
+               3.4 What
+	            part of --> Springville Journal, 7 June 1906, Tuesday, page 2
+		    has subject --> University of Paris
+		    has subject --> Sorbonne
 
 9. Paris (sources: https://www.geonames.org/2968815/paris.html or https://www.wikidata.org/wiki/Q90)
 	-- MADS Standard elements -> https://id.loc.gov/ontologies/madsrdf/v1.html#RWO --
@@ -170,13 +181,13 @@
 	
 10. Photo of Marie Curie driving a radiology car ("Little Curie")
 
-               3.1 Who
+               10.1 Who
                     made by --> Unknown
-               3.2 Where
+               10.2 Where
                     kept at --> Fonds photographique Général - Association Curie et Joliot-Curie, Musée Curie
-               3.3 When
+               10.3 When
                     made in --> 1917
-               3.4 What
+               10.4 What
                     has type --> photograph
 		    has title --> Marie Curie driving a "Little Curie"
                     depict/subject --> Marie Curie
