@@ -1,4 +1,4 @@
-~ 03 - 15 - 2022 ~
+~ Recap  03 - 15 - 2022 ~
 
 Suggestions/Ideas for the next meeting:
 (Tom) Let's see Wikidata and follow its links (ed: radium, inventor, named after...). (I don't know if we could) It would be interesting to use also "Radioactivity" as an item since it is 1) a notable work by Marie Curie 2) the object of the discovery.
@@ -43,7 +43,7 @@ Additional informations:
   
   
   
-~ 03 - 19 - 2022 ~
+~ Recap 03 - 19 - 2022 ~
   See for more: officehours
 
     1.About: Treatise on Radioactivity
@@ -56,12 +56,17 @@ Additional informations:
       - We finally found the two object (diploma) recorded!  https://musee.curie.fr/decouvrir/la-famille-curie/les-prix-nobel-des-curie-et-des-joliot-curie
       - We will set the diploma as entity? Since we have two Noble Prize. (<--it has been solved, waiting for the next collective meeting to talk)
     
-~ 03 - 20 - 2022 ~
+~ Recap 03 - 20 - 2022 ~
      1. About: storytelling.
         - For sure, the 2nd Noble Prize is the center of our historical part. MC is the first woman who owned two Nobel Prize in two different fields.
         - We can see the storytelling divided in four main parts: 
         1) Witness/Commemoration (Items: Notebook, Statue, Pantheon)
         2) Science and Research (Items: Nobels, Radio, Radioactivity)
         3) Mass culture: (Items: Vanity Fair, Stamp, Radithor)
- 
+        
+~ Recap 03 - 22 - 2022 ~
+     1. About: museums and institution.
+        - We found some alternatives to two items on which we're uncertain about.
+     2. About: Predicates used.
+        - We added the property "employer" for Pierre and Marie, teaching at Sorbonne University.
 
