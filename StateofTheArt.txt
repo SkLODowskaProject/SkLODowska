@@ -69,4 +69,6 @@ Additional informations:
         - We found some alternatives to two items on which we're uncertain about.
      2. About: Predicates used.
         - We added the property "employer" for Pierre and Marie, teaching at Sorbonne University.
+     3. About: E/R Map.
+        - We discussed about the dispostition of every single element of the map, comparing a tree structure with one more "open-structured" and not usual.
 
