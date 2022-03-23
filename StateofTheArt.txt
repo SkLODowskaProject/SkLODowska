@@ -71,4 +71,9 @@ Additional informations:
         - We added the property "employer" for Pierre and Marie, teaching at Sorbonne University.
      3. About: E/R Map.
         - We discussed about the dispostition of every single element of the map, comparing a tree structure with one more "open-structured" and not usual.
+        
+        
+~ Recap 03 - 23 - 2022 ~
+     1. What elements can we sacrifice? 1) Sorbonne 2)Monument.
+
 
