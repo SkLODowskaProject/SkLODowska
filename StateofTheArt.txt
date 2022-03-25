@@ -78,3 +78,6 @@ Additional informations:
      2. ♦♦♦About: Properties. TO ADD: "has lived in".
 
 
+~ Recap 03 - 24 - 2022 ~
+     1. Conceptual Map done
+     2. E/R started
