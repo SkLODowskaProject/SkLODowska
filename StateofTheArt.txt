@@ -81,3 +81,12 @@ Additional informations:
 ~ Recap 03 - 24 - 2022 ~
      1. Conceptual Map done
      2. E/R started
+     
+~ Recap 03 - 29 - 2022 ~
+     1. Standard trovati: tutti tranne quello del film, del back to back, dei Nobel
+     2. Documentazione science museum group:
+non hanno scelto uno standard notevole, ma hanno sviluppato un intelligenza artificiale per mettere insieme i predicati.
+https://onlinelibrary.wiley.com/doi/10.1002/ail2.23
+https://thesciencemuseum.github.io/heritageconnector/post/2021/09/10/demos-announcement/
+
+     
