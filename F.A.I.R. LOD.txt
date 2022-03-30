@@ -1,2 +1,0 @@
-According to this source, https://librarycarpentry.org/Top-10-FAIR/2019/09/05/linked-open-data/, once the items have been chosen, 
-we manage to catalog them according to some criteria (title, creator, publication date etc); this way of cataloguing has to be clear and have to bring out the analized objects. Important thing to check is if data are on open source mood or not. We'd better choose something that is already registered, too, otherwise we can choose one standard that suits with the item. The categories chosen to be put in the table are called "concepts".
