@@ -1,0 +1,21 @@
+subject,predicate,object
+Portrait of Marie and Pierre Curie,rdf:type,Portrait prints
+Portrait of Marie and Pierre Curie,dc:subject,Physicist
+Portrait of Marie and Pierre Curie,dc:subject,Chemist
+Portrait of Marie and Pierre Curie,dc:subject,Female
+Portrait of Marie and Pierre Curie,dc:subject,Woman
+Portrait of Marie and Pierre Curie,dc:subject,Women in science
+Portrait of Marie and Pierre Curie,crm:P94_was_created_by,Julius Mendez Price
+Portrait of Marie and Pierre Curie,crm:P102_has_title,"Marie and Pierre Curie, he holding aloft a glowing specimen of Radium"
+Portrait of Marie and Pierre Curie,crm:P108_was_produced_by,"Vincent Brooks, Day and Son limited"
+Portrait of Marie and Pierre Curie,fabio:isPartOf,"Vanity Fair Issue, 22 December 1904"
+Portrait of Marie and Pierre Curie,schema:locationCreated,Paris
+Portrait of Marie and Pierre Curie,dc:created,1904
+Portrait of Marie and Pierre Curie,crm:P50_has_current_keeper,Wellcome Collection
+Portrait of Marie and Pierre Curie,crm:P62_depicts,Radium
+Portrait of Marie and Pierre Curie,crm:P62_depicts,Marie Curie
+Portrait of Marie and Pierre Curie,crm:P62_depicts,Pierre Curie
+Portrait of Marie and Pierre Curie,crm:P45_consists_of,Paper
+Portrait of Marie and Pierre Curie,crm:P32_used_general_technique ,Portrait print
+Portrait of Marie and Pierre Curie,crm:P32_used_general_technique ,Lithograph
+Portrait of Marie and Pierre Curie,dc:rights,Credit: Wellcome Collection

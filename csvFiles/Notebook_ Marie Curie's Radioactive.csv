@@ -1,0 +1,12 @@
+subject,predicate,object
+Marie Curie's Radioactive,rdf:type,Notebook
+Marie Curie's Radioactive,rdfs:label,Notebook
+Marie Curie's Radioactive,dc:created,1899
+Marie Curie's Radioactive,schema:locationCreated,Paris
+Marie Curie's Radioactive,crm:P94_was_created_by,Marie Curie
+Marie Curie's Radioactive,crm:P45_consists_of,Paper
+Marie Curie's Radioactive,crm:P45_consists_of,Cloth
+Marie Curie's Radioactive,crm:P50_has_current_keeper,Wellcome Collection
+Marie Curie's Radioactive,fabio:hasLanguage,French
+Marie Curie's Radioactive,dc:subject,Radium
+Marie Curie's Radioactive,dc:subject,X-Rays

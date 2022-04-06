@@ -1,0 +1,15 @@
+subject,predicate,object
+Traité de radioactivité,rdf:type,Text
+Traité de radioactivité,dc:subject,Radioactivity
+Traité de radioactivité,dc:subject,Radium
+Traité de radioactivité,dc:subject,Polonium
+Traité de radioactivité,crm:P102_has_title,Traité de radioactivité / par Madame P. Curie
+Traité de radioactivité,crm:P94_was_created_by,Marie Curie
+Traité de radioactivité,fabio:hasPublisher,"Gauthier-Villars"
+Traité de radioactivité,fabio:hasPublicationDate,1910
+Traité de radioactivité,fabio:hasPlaceOfPublication,Paris
+Traité de radioactivité,fabio:hasLanguage,French
+Traité de radioactivité,fabio:hasPart,Vol I
+Traité de radioactivité,fabio:hasPart,Vol II
+Traité de radioactivité,crm:P45_consists_of,Paper
+Traité de radioactivité,crm:P45_consists_of,Ink

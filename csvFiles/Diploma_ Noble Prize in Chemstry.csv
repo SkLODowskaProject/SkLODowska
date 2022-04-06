@@ -1,0 +1,9 @@
+subject,predicate,object
+Noble Prize Diploma (Chemistry),rdf:type,Academic Diploma
+Noble Prize Diploma (Chemistry),rdfs:label,Diploma
+Noble Prize Diploma (Chemistry),foaf:primaryTopic,Noble Prize in Chemistry
+Noble Prize Diploma (Chemistry),frapo:isAwardedBy,"Royal Swedish Accademy of Science"
+Noble Prize Diploma (Chemistry),dc:created,1911
+Noble Prize Diploma (Chemistry),frapo:hasAwardDate,1911
+Noble Prize Diploma (Chemistry),crm:P45_consists_of,Parchment
+Noble Prize Diploma (Chemistry),crm:P50_has_current_keeper,"Fonds photographique Général - Association Curie et Joliot-Curie, Musée Curie, Paris"
