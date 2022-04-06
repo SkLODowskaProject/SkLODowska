@@ -1,0 +1,9 @@
+subject,predicate,object
+Noble Prize Diploma (Physics),rdf:type,Academic Diploma
+Noble Prize Diploma (Physics),rdfs:label,Diploma
+Noble Prize Diploma (Physics),foaf:primaryTopic,Noble Prize in Physics
+Noble Prize Diploma (Physics),frapo:isAwardedBy,"Royal Swedish Accademy of Science"
+Noble Prize Diploma (Physics),dc:created,1903
+Noble Prize Diploma (Physics),frapo:hasAwardDate,1903
+Noble Prize Diploma (Physics),crm:P45_consists_of,Parchment
+Noble Prize Diploma (Physics),crm:P50_has_current_keeper,"Fonds photographique Général - Association Curie et Joliot-Curie, Musée Curie, Paris"
