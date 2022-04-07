@@ -1,0 +1,13 @@
+subject,predicate,object
+Radithor,rdf:type,Patent medicine
+Radithor,rdf:type,Radioactive quackery
+Radithor,rdfs:label,Radithor
+Radithor,dc:subject,Rheumatism & Arthritis Drugs
+Radithor,schema:activeIngredient,Mesothorium
+Radithor,schema:activeIngredient,"Water, triple distilled"
+Radithor,schema:activeIngredient,Radium
+Radithor,crm:P94_was_created_by,William J. A. Bailey
+Radithor,crm:P108_was_produced_by,"Bailey Radium Laboratories, Inc."
+Radithor,dbo:productionStartYear,1925
+Radithor,dbo:productionEndYear,1932
+Radithor,crm:P50_has_current_keeper,National Museum of American History

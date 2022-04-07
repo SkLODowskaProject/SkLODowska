@@ -1,0 +1,13 @@
+subject,predicate,object
+Marie and Pierre Curie and their two daughters,rdf:type,Photograph
+Marie and Pierre Curie and their two daughters,crm:P102_has_title,"Marie Curie and her two daughters, Eve and Irene, in 1908"
+Marie and Pierre Curie and their two daughters,crm:P45_consists_of,"Paper, Ink"
+Marie and Pierre Curie and their two daughters,dc:created,1904
+Marie and Pierre Curie and their two daughters,crm:P50_has_current_keeper,Daily Herald Archive at National Science and Media Museum
+Marie and Pierre Curie and their two daughters,crm:P94_was_created_by,Unknown
+Marie and Pierre Curie and their two daughters,crm:P62_depicts,Marie Curie
+Marie and Pierre Curie and their two daughters,crm:P62_depicts,Pierre Curie
+Marie and Pierre Curie and their two daughters,crm:P62_depicts,Eve Curie
+Marie and Pierre Curie and their two daughters,crm:P62_depicts,Irène Joliot-Curie
+, ,
+, ,
