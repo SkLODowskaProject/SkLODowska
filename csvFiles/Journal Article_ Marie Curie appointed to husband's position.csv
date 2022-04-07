@@ -1,9 +1,0 @@
-subject,predicate,Object
-Article: Marie Curie appointed to husband's position,rdf:type,Journal Article
-Article: Marie Curie appointed to husband's position,crm:P102_has_title,Marie Curie appointed to husband's position at University of Paris (Sorbonne) after his death
-Article: Marie Curie appointed to husband's position,crm:P50_has_current_keeper,newspaper.com
-Article: Marie Curie appointed to husband's position,fabio:isPartOf,Springville Journal Issue 07 June 1906
-Article: Marie Curie appointed to husband's position,dc:subject,Sorbonne
-Article: Marie Curie appointed to husband's position,dc:subject,University of Paris
-Article: Marie Curie appointed to husband's position,dc:subject,Marie Curie
-Article: Marie Curie appointed to husband's position,dc:subject,Pierre Curie
